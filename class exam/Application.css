@@ -30,7 +30,7 @@ fieldset{
 }
 table{
     padding: 30px 10px;
-    text-align: center;
+    text-align: left;
 }
 input{
     
@@ -45,14 +45,15 @@ label{
     margin: 5px 20px;
 }
 #dt{
- margin-left: 2px;  
+   width: 86px;
 }
 .div1{
+    margin-left: 10px;
 }
 button{
     text-align: center;
     padding: 5px 60px ;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-top: 5px;
     margin-bottom: 5px;
     background-image:linear-gradient(#F1948A,#AED6F1) ;
@@ -63,11 +64,16 @@ button{
 }
 .diva{
     display: flex;
-    justify-content: space-between;
     align-items: center;
     margin-left: 50px;
 }
 .yr{
     width: 50px;
     margin-left: 5px;
+}
+#dat{
+    margin-left: 19px;
+}
+#st{
+    margin-left: -100px;
 }
